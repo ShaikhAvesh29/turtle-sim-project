@@ -1,5 +1,4 @@
 # turtle-sim-project
-# turtle-sim-project
 # Introduction to ROS2 — Virtual Robot Publisher/Subscriber
 
 **Author:** Shaikh Avesh
